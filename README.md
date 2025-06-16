@@ -1,7 +1,7 @@
 # 微分方程数值解法 第一次 实验报告
 <div align="right">信息与计算科学</div>
-<div align="right">15336204</div>
-<div align="right">邢剑飞</div>
+<div align="right">202214810314</div>
+<div align="right">ZN</div>
 
 ***
 
@@ -92,11 +92,6 @@ $u=A^{-1}F$
     ├─── README.md          # 运行指南
     └─── requirement.txt    # 依赖包记录
 ```
-
-全部实验代码存放于
-
-https://github.com/Jianfei2333/difference_equation
-
 ## 四、运行说明
 
 运行前，可以手动调整各个函数及参数的值。函数存放于/function.py中，参数存放于/config.conf中。
@@ -115,9 +110,7 @@ $p(x)=x^2$
 
 $q(x)=sin(e^x)$
 
-得到结果如下图：
 
-![figure](./static/figure.png)
 
 图左上：$u(x)$实际图像
 
@@ -132,9 +125,9 @@ $q(x)=sin(e^x)$
 ***
 ...一些题外话
 
-Python环境真的难搭Orz，各种版本冲突语法规则冲突，如果实在不能运行的话可以发邮件给我2333，邮箱：xjf999999@hotmail.com
+Python环境真的难搭Orz，各种版本冲突语法规则冲突
 
-BTW虽然感觉有点紧张但是助教姐姐依然很努力地在讲课啦！其实讲得非常清楚了(虽然大家好像都没有什么反应...其实所有课都是这个状况2333 反正希望助教姐姐以后也一定要加油啦！(≧∇≦)ﾉ
+
 
 ***
 <h5 align="right">2018年03月31日 星期六 17:54:13 CST</h5>
